@@ -1,0 +1,5 @@
+pdf_merge.egg-info
+example_pdfs
+build
+dist
+.venv
